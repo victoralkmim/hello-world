@@ -1,2 +1,2 @@
 # hello-world
-Exercício - Setup de Ferramentas
+Exercício - Setup de Ferramentas - Cubos Academy
